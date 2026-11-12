@@ -1,0 +1,8 @@
+:HL["/maida-apercu/_next/static/chunks/3ipncd7fpi_zc.css","style"]
+:HL["/maida-apercu/_next/static/chunks/19rhlcx2srev9.css","style"]
+:HC["/",""]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"slug","t":"d","k":"service-de-table-49-pieces-classique-orientale","s":[]},"h":96,"c":"$Q4"}]]
+2:[["children",{"s":"produit","h":64,"c":"$Q3"}]]
+1:[["children",{"s":"(site)","c":"$Q2"}]]
+0:{"b":"mMHNlXPJlELS-0wkhUo6e","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

@@ -1,0 +1,6 @@
+:HL["/maida-apercu/_next/static/chunks/3ipncd7fpi_zc.css","style"]
+:HC["/",""]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":"promos","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"gestion","h":64,"c":"$Q2"}]]
+0:{"b":"mMHNlXPJlELS-0wkhUo6e","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
